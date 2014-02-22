@@ -1,0 +1,27 @@
+{
+  "name": "gulp-transform",
+  "version": "0.0.0",
+  "main": "lib/gulp-transform.js",
+  "description": "A gulp plugin for transforming data, e.g. CSV to JSON, TSV to CSV, etc.",
+  "homepage": "https://github.com/mathisonian/gulp-transform",
+  "bugs": "https://github.com/mathisonian/gulp-transform/issues",
+  "author": {
+    "name": "Matthew Conlen",
+    "email": "code@mathisonian.com",
+    "url": "http://mathisonian.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathisonian/gulp-transform"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
