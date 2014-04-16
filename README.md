@@ -1,4 +1,4 @@
-# gulp-transform 
+# gulp-transform (WORK IN PROGRESS)
 A gulp plugin for transforming data, e.g. CSV to JSON, TSV to CSV, etc.
 
 ## Getting Started
